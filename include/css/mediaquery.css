@@ -98,6 +98,12 @@
     width: 100%;
     margin-bottom: 30px;
   }
+  .list_gallery img {
+    margin-bottom: 10px;
+  }
+  .paging {
+    margin-bottom: 30px;
+  }
   .header_mobile.is_main{
   display: none;
 }
@@ -213,7 +219,8 @@
   .text img.vertical{
     width: 100%;
   }
-  .text .txt_work.bottom.vertical {
+  .text .txt_work.bottom.vertical,
+  .text .txt_work.bottom.vertical.wide {
     width: 100%;
   }
   #content.cv_c{
@@ -231,6 +238,9 @@
   }
 .thumb li img{
   margin-bottom: 10px;
+}
+.thumb_list {
+  gap: 10px;
 }
 }
 
