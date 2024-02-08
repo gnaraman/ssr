@@ -14,9 +14,12 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <title>Sungsil Ryu</title>
   <link rel="canonical" href="http://www.sungsilryu.com">
-  <link rel="stylesheet" type="text/css" href="../include/css/index.css">
-  <link rel="stylesheet" type="text/css" href="../include/css/mediaquery.css">
-  <script type="text/javascript" src="../include/js/jquery-1.11.0.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../include/css/index.css">
+  <link rel="stylesheet" type="text/css" href="../../include/css/mediaquery.css">
+  <link rel="stylesheet" type="text/css" href="../../include/css/slick.css">
+  <link rel="stylesheet" type="text/css" href="../../include/css/slick-theme.css">
+  <script type="text/javascript" src="../../include/js/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../include/js/slick.js"></script>
   <!-- <script type="text/javascript" src="../include/js/index.js"></script> -->
 </head>
 
