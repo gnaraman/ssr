@@ -69,4 +69,14 @@ $(document).ready(function(){
        goOtherLang.attr('href', chec);
    }
 
+   $('.list_gallery').slick({
+      infinite: true,
+      arrows: true,
+    });
+
+    $('.list_gallery').on('init reInit afterChange', function(event, slick, currentSlide, nextSlide){ 
+      var i = (currentSlide ? currentSlide : 0) + 1;
+      $('.paging').html("<span class='current'>"+i+"</span>/<span class='sum'>"+slick.slideCount+"</span>");
+      });
+
 });
