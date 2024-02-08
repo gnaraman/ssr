@@ -30,7 +30,7 @@
             </p>
             <img src="../../include/images/2023_01_02.jpg" alt="대왕트래블과 떠나는 피아노 여행 상세 이미지2">
             <p class="txt_work bottom">
-              대왕트앨범 발매를 기념, 합리/개혁을 표방하는 한국의 대표 인터넷 신문사 데일리안에서 이대왕 대표의 인터뷰를 게재하였습니다. <a href="https://www.dailian.co.kr/news/view/1309847" target="_blank" class="link_go">인터뷰 바로가기 &nearr; </a>
+              앨범 발매를 기념, 합리/개혁을 표방하는 한국의 대표 인터넷 신문사 데일리안에서 이대왕 대표의 인터뷰를 게재하였습니다. <a href="https://www.dailian.co.kr/news/view/1309847" target="_blank" class="link_go">인터뷰 바로가기 &nearr; </a>
             </p>
 
           </div>
