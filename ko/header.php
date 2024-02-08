@@ -16,7 +16,10 @@
   <link rel="canonical" href="http://www.sungsilryu.com">
   <link rel="stylesheet" type="text/css" href="../../include/css/index.css">
   <link rel="stylesheet" type="text/css" href="../../include/css/mediaquery.css">
+  <link rel="stylesheet" type="text/css" href="../../include/css/slick.css">
+  <link rel="stylesheet" type="text/css" href="../../include/css/slick-theme.css">
   <script type="text/javascript" src="../../include/js/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../include/js/slick.js"></script>
   <!-- <script type="text/javascript" src="../../include/js/index.js"></script> -->
 </head>
 

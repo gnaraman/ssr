@@ -60,6 +60,12 @@
     <div id="container">
       <!-- sub_gnb -->
       <div class="sub_gnb">
+          <p class="year">2023</p>
+          <ul>
+            <li><a href="works/2023-03.php">&lt;Finding My Korean Angel&gt;</a></li>
+            <li><a href="works/2023-02.php">&lt;대왕에어 엔진 복구기금 마련전&gt;</a></li>
+            <li><a href="works/2023-01.php">&lt;대왕트래블과 떠나는 피아노 여행&gt;</a></li>
+          </ul>
           <p class="year">2022</p>
           <ul>
             <li><a href="works/2022-02.php">&lt;불타는 사랑의 노래&gt;</a></li>
