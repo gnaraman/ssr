@@ -90,7 +90,7 @@
             <li><a href="works/2019-06.php">&lt;BigKing Travel Ching Chen Tour - Mr. Kim’s Revival 2019&gt;</a></li>
             <li><a href="works/2019-05.php">&lt;I’m Not Dead!&gt;</a></li>
             <li><a href="works/2019-04.php">&lt;I’m Not Dead, Too!&gt;</a></li>
-            <li><a href="works/2019-03.php">&lt;Ching Chen Zhang Lung Chin Rock&gt;</a></li>
+            <li><a href="works/2019-03.php">&lt;Ching Chen Zhang Lung Chih Rock&gt;</a></li>
             <li><a href="works/2019-02.php">&lt;Goodbye Cherry Jang&gt;</a></li>
             <li><a href="works/2019-01.php">&lt;Ching-Chen Matbogi Tour&gt;</a></li>
           </ul>
