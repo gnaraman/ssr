@@ -34,7 +34,7 @@
             <img src="../../include/images/2023_01_02.jpg" alt="대왕트래블과 떠나는 피아노 여행 상세 이미지2">
             <p class="txt_work bottom">
               To commemorate the album release, Big King Travel CEO Lee Daewang's interview was published on Dailian, a leading Korean internet newspaper.<br> 
-              <a href="https://www.dailian.co.kr/news/view/1309847" target="_blank" class="link_go">Interview Link &nearr;</a>
+              <a href="https://www.dailian.co.kr/news/view/1309847" target="_blank" class="link_go">Interview Link &nearr;&#xFE0E;</a>
               (Try Google Translate by yourself)
             </p>
 

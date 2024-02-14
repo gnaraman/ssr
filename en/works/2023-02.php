@@ -27,7 +27,7 @@
             <img src="../../include/images/2023_02_02.jpg" alt="Big King Airlines New Engine Fundraising Drive image2" class="vertical">
             <img src="../../include/images/2023_02_03.jpg" alt="Big King Airlines New Engine Fundraising Drive image3" class="vertical">
             <p class="txt_work bottom vertical">
-              <a href="http://www.bigkingair.com" target="_blank" class="link_go">www.bigkingair.com &nearr; </a>
+              <a href="http://www.bigkingair.com" target="_blank" class="link_go">www.bigkingair.com &nearr;&#xFE0E;</a>
             </p>
 
             <ul class="list_gallery">
