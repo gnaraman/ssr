@@ -134,20 +134,6 @@
                 </a>
               </li>
             </ul>
-            <!-- modal gallery -->
-            <div class="gallery" id="modalOverlay">
-              <div class="modal-content" id="modalContent">
-                <!-- Your content here -->
-                <img src="" id="zoomableImage">
-              </div>
-              <div id="hud"></div>
-                <!-- <a class="close" href="#">
-                    <i>
-                    <span class="bar"></span>
-                    <span class="bar"></span>
-                    </i>
-                </a> -->
-            </div>
             <div class="paging"><span class="current">1</span>/<span class="sum">17</span></div>
 
             <p class="txt_work bottom">
@@ -179,24 +165,6 @@
                   </a>
                 </li>
               </ul>
-              <!-- 직사각 -->
-              <!-- <ul class="thumb_list ver2">
-                <li>
-                  <a href="https://www.instagram.com/p/Cw94uoLPURk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
-                    <img src="../../include/images/2023_02_thumb1.jpg" alt="대왕에어 엔진 복구기금 마련전 인스타그램 썸네일1">
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.instagram.com/reel/Cw9xrXFRXCc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
-                    <img src="../../include/images/2023_02_thumb2.jpg" alt="대왕에어 엔진 복구기금 마련전 인스타그램 썸네일2">
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.instagram.com/p/Cw18565Pe0C/?igshid=MzRlODBiNWFlZA==" target="_blank">
-                    <img src="../../include/images/2023_02_thumb3.jpg" alt="대왕에어 엔진 복구기금 마련전 인스타그램 썸네일3">
-                  </a>
-                </li>
-              </ul> -->
             </div>
             <p class="txt_work bottom">
               (These promotional materials were created in collaboration with marketing agency  
@@ -215,8 +183,6 @@
             </p>
 
           </div>
-
-          <!-- <script type="text/javascript" src="../../include/js/pinch.js"></script> -->
 
       </div>
 
