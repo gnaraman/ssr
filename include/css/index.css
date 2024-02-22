@@ -446,7 +446,7 @@ html.show_video #BG{
   margin: 0 4px;
 }
 
-.gallery {
+/* .gallery {
   position: fixed;
   top: 0;
   left: 0;
@@ -491,4 +491,4 @@ html.show_video #BG{
 
 body.modalOn {
   overflow: hidden;
-}
+} */
