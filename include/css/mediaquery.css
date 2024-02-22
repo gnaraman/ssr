@@ -101,6 +101,10 @@
   .list_gallery img {
     margin-bottom: 10px;
   }
+  .text .gallery img {
+    width:85%;
+    margin: auto;
+  }
   .paging {
     margin-bottom: 30px;
   }
