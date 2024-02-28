@@ -168,16 +168,17 @@
             </div>
             <p class="txt_work bottom">
               (These promotional materials were created in collaboration with marketing agency  
-              <a href="https://streaklinks.com/B2dXEQUSUkM2rY1Yow1FQGTs/https%3A%2F%2Fwww.instagram.com%2Fstudio.yonke%2F" target="_blank" class="link_go">Studio. Yonke.</a> 
+              <a href="https://streaklinks.com/B2dXEQUSUkM2rY1Yow1FQGTs/https%3A%2F%2Fwww.instagram.com%2Fstudio.yonke%2F" target="_blank" class="link_go">Studio Yonke.</a> 
               Click the thumbnails to explore the materials.)
             </p>
 
             <img src="../../include/images/2023_02_06.jpg" alt="Big King Airlines New Engine Fundraising Drive image6">
+            <img src="../../include/images/2023_02_08.jpg" alt="Big King Airlines New Engine Fundraising Drive image7">
             <p class="txt_work bottom">
-              《Singapore Art Week 2024》  exhibition display (Singapore Art Museum, 2024)
+              《Singapore Art Week 2024》  exhibition display (Singapore Art Museum, 2024) / Image Courtesy of Singapore Art Museum, photographed by Alvin Ho
             </p>
 
-            <img src="../../include/images/2023_02_07.jpg" alt="Big King Airlines New Engine Fundraising Drive image7">
+            <img src="../../include/images/2023_02_07.jpg" alt="Big King Airlines New Engine Fundraising Drive image8">
             <p class="txt_work bottom">
               《Transmediale 2024 : this is perfect, perfect, perfect》 exhibition display, Kunstraum Kreuzberg/Bethanien, Berlin
             </p>

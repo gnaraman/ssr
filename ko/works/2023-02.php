@@ -173,11 +173,12 @@
             </p>
 
             <img src="../../include/images/2023_02_06.jpg" alt="대왕에어 엔진 복구기금 마련전 이미지6">
+            <img src="../../include/images/2023_02_08.jpg" alt="대왕에어 엔진 복구기금 마련전 이미지7">
             <p class="txt_work bottom">
-              《Singapore Art Week 2024》 전시 전경, (Singapore Art Museum, 2024)
+              《Singapore Art Week 2024》 전시 전경, (Singapore Art Museum, 2024) / Image Courtesy of Singapore Art Museum, photographed by Alvin Ho
             </p>
 
-            <img src="../../include/images/2023_02_07.jpg" alt="대왕에어 엔진 복구기금 마련전 이미지7">
+            <img src="../../include/images/2023_02_07.jpg" alt="대왕에어 엔진 복구기금 마련전 이미지8">
             <p class="txt_work bottom">
               《Transmediale 2024 : this is perfect, perfect, perfect》 전시 전경, Kunstraum Kreuzberg/Bethanien, Berlin
             </p>

@@ -418,6 +418,7 @@ html.show_video #BG{
   font-size: 12px;
   margin-top: 10px;
   word-break: keep-all;
+  text-align: center;
 }
 .list_gallery .slick-next{
   right: 0;

@@ -106,8 +106,12 @@
     margin: auto;
   }
   .paging {
+    margin-top: 5px;
     margin-bottom: 30px;
   }
+  .text .txt_work.bottom {
+    margin-top: -24px;
+    }
   .header_mobile.is_main{
   display: none;
 }
