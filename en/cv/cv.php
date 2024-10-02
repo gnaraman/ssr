@@ -107,6 +107,7 @@
               <p class="cv_year">2024</p>
               <ul>
                   <li>DOOSAN Gallery International Residency Program – ISCP, New York</li>
+                  <li>Eaton HK Residency, Hong Kong</li>
               </ul>
             </div>
             <div class="cv_box mt0">
@@ -153,6 +154,10 @@
             <div class="cv_box">
               <p class="cv_year">2024</p>
               <ul>
+                <li>《Rhizome – Network Without Center Point》 Kunstal Aarhus, Aarhus</li>
+                <li>《AFTER HUMAN: MARKS OF THE BEASTS》 Tomorrow Maybe, Hong Kong</li>
+                <li>《Wake Up! It’s 2024》 Nam June Paik Art Center, Yongin</li>
+                <li>《Singapore Art Week 2024》, Singapore Art Museum, Singapore</li>
                 <li>《Transmediale 2024 : this is perfect, perfect, perfect》 Kunstraum Kreuzberg/Bethanien, Berlin</li>
               </ul>
             </div>
@@ -276,6 +281,8 @@
 
             <h3>Collection</h3>
             <p class="txt_cv">
+                MMCA (National Museum of Modern and Contemporary Art), Seoul <br>
+                SeMA (Seoul Museum of Art), Seoul <br>
                 Nam June Paik Art Center, Yongin
             </p>
 

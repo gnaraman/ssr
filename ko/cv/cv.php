@@ -120,6 +120,7 @@
               <p class="cv_year">2024</p>
               <ul>
                   <li>두산갤러리 해외 레지던시 프로그램 선정- ISCP, 뉴욕</li>
+                  <li>이튼 홍콩 레지던시, 홍콩</li>
               </ul>
             </div>
             <div class="cv_box mt0">
@@ -165,6 +166,10 @@
             <div class="cv_box">
               <p class="cv_year">2024</p>
               <ul>
+                <li>《Rhizome – Network Without Center Point》 쿤스트할 오르후스, 오르후스</li>
+                <li>《AFTER HUMAN: MARKS OF THE BEASTS》 Tomorrow Maybe, 홍콩</li>
+                <li>《일어나 2024년이야!》 백남준아트센터, 용인</li>
+                <li>《Singapore Art Week 2024》, Singapore Art Museum, 싱가폴</li>
                 <li>《this is perfect, perfect, perfect》 Kunstraum Kreuzberg/Bethanien, 베를린</li>
               </ul>
             </div>
@@ -289,6 +294,8 @@
 
             <h3>Collection</h3>
             <p class="txt_cv">
+                국립현대미술관, 서울 <br>
+                서울시립미술관, 서울 <br>
                 백남준아트센터, 용인
             </p>
 

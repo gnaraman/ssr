@@ -24,9 +24,8 @@
                 <p class="tit_eng">&lt;BJ Cherry Jang 2018.9&gt; 11min, single channel video, 2018</p>
             </h2>
 
-            <div class="iframeWrapper mb0">
-              <iframe src="https://player.vimeo.com/video/299623804" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-              <!-- <p><a href="https://vimeo.com/299623804">BJ 체리 장 2018.9</a> from <a href="https://vimeo.com/sungsilryu">Sungsil Ryu</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->
+            <div class="iframeWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/JRLUwQOEQ8k?si=AyObz7NXPo711-bX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <p class="link_go mb35"><a href="https://vimeo.com/329967556/69874be6fd" target="_blank">English ver. &nearr; </a></p>
 

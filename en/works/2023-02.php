@@ -124,7 +124,7 @@
               <li>
                 <a href="#" data-fancybox="single" data-src="../../include/images/2023_02_04_16.jpg">
                   <img src="../../include/images/2023_02_04_16.jpg" alt="Big King Airlines New Engine Fundraising Drive image4-16">
-                  <p>&lt;Broken Engine Fan Blade&gt; Acrylic and mixed media on FRP, 60 x 40 x 15cm</p>
+                  <p>&lt;A Piece from Engine - The People Who Painted Ching Chen&gt; 100x77x12cm, 2023</p>
                 </a>
               </li>
               <li>
